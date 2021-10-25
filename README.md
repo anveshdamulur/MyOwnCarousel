@@ -6,4 +6,5 @@
   4. Clean and Dry code
   
   
-  
+  ![ouput](https://user-images.githubusercontent.com/34277793/138693635-be00334c-dc82-4540-8cc3-825ec7c10d5d.png)
+
